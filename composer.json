@@ -1,0 +1,5 @@
+{
+    "require": {
+        "zendframework/zend-di": "2.6.1"
+    }
+}
